@@ -1,0 +1,11 @@
+.main-content {
+  margin-top: 80px;
+}
+
+#date {
+  display: block;
+}
+.container input,
+.container select {
+  width: 200px;
+}
